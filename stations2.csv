@@ -1,0 +1,349 @@
+﻿code;marco.name;name;level;Country;Region;Mediterranean_Region;mean;sorting;skewness;kurtosis;comment.gran;latitude;longitude;Length;Orientation;Town;Harbour;richness
+st.019;Porto Cesareo (Hotel Blu) swash;Porto_Cesareo_Hotel_Blu;swash;ITA;Puglia;Ionian;375;;;;estimated;40.2696621;17.8825891;0.48;SW;YES;NO;2
+st.020;Porto Cesareo (Hotel Blu) mid;Porto_Cesareo_Hotel_Blu;mid;ITA;Puglia;Ionian;375;;;;estimated;40.2696622;17.8825892;0.48;SW;YES;NO;4
+st.021;Porto Cesareo (Hotel Blu) deep;Porto_Cesareo_Hotel_Blu;deep;ITA;Puglia;Ionian;375;;;;estimated;40.2696623;17.8825893;0.48;SW;YES;NO;4
+st.022;Porto Cesareo (Strea) swash;Porto_Cesareo_Strea;swash;ITA;Puglia;Ionian;750;;;;estimated;40.2594841;17.8971651;0.34;SW;YES;NO;2
+st.023;Porto Cesareo (Strea) mid;Porto_Cesareo_Strea;mid;ITA;Puglia;Ionian;375;;;;estimated;40.2594842;17.8971652;0.34;SW;YES;NO;5
+st.024;Porto Cesareo (Strea) deep;Porto_Cesareo_Strea;deep;ITA;Puglia;Ionian;187;;;;estimated;40.2594843;17.8971653;0.34;SW;YES;NO;3
+st.025;Porto Cesareo (T. Scianuli) swash;Porto_Cesareo_T._Scianuli;swash;ITA;Puglia;Ionian;375;;;;estimated;40.2383811;17.9092941;0.04;SW;NO;NO;2
+st.026;Porto Cesareo (T. Scianuli) mid;Porto_Cesareo_T._Scianuli;mid;ITA;Puglia;Ionian;375;;;;estimated;40.2383822;17.9092942;0.04;SW;NO;NO;3
+st.027;Porto Cesareo (T. Scianuli) deep;Porto_Cesareo_T._Scianuli;deep;ITA;Puglia;Ionian;187;;;;estimated;40.2383833;17.9092943;0.04;SW;NO;NO;6
+st.028;Lampedusa swash;Lampedusa;swash;ITA;Sicilia;Western Mediterranean;375;;;;estimated;35.5015131;12.5933311;0.05;S;NO;NO;2
+st.029;Lampedusa mid;Lampedusa;mid;ITA;Sicilia;Western Mediterranean;375;;;;estimated;35.5015132;12.5933312;0.05;S;NO;NO;4
+st.030;Lampedusa deep;Lampedusa;deep;ITA;Sicilia;Western Mediterranean;375;;;;estimated;35.5015133;12.5933313;0.05;S;NO;NO;5
+st.031;Eloro swash;Eloro;swash;ITA;Sicilia;Tunisian_plateau;375;;;;estimated;36.8395041;15.1071271;0.37;W;NO;NO;3
+st.032;Eloro mid;Eloro;mid;ITA;Sicilia;Tunisian_plateau;375;;;;estimated;36.8395042;15.1071272;0.37;W;NO;NO;6
+st.033;Eloro deep;Eloro;deep;ITA;Sicilia;Tunisian_plateau;187;;;;estimated;36.8395043;15.1071273;0.37;W;NO;NO;3
+st.034;Playa Catania swash;Playa_Catania;swash;ITA;Sicilia;Tunisian_plateau;375;;;;estimated;37.4822691;15.0863451;9.1;W;YES;YES;2
+st.035;Playa Catania mid;Playa_Catania;mid;ITA;Sicilia;Tunisian_plateau;375;;;;estimated;37.4822692;15.0863452;9.1;W;YES;YES;4
+st.036;Playa Catania deep;Playa_Catania;deep;ITA;Sicilia;Tunisian_plateau;187;;;;estimated;37.4822693;15.0863453;9.1;W;YES;YES;7
+st.076;Meta Sorrento swash;Meta_Sorrento;swash;ITA;Campania;Western Mediterranean;375;;;;estimated;40.6474521;14.4074311;0.2;N;YES;YES;1
+st.077;Meta Sorrento mid;Meta_Sorrento;mid;ITA;Campania;Western Mediterranean;375;;;;estimated;40.6474522;14.4074322;0.2;N;YES;YES;1
+st.078;Meta Sorrento deep;Meta_Sorrento;deep;ITA;Campania;Western Mediterranean;187;;;;estimated;40.6474523;14.4074333;0.2;N;YES;YES;6
+st.214;Alicante swash;Alicante;swash;ESP;Communidad_Valenciana;Western Mediterranean;375;;;;estimated;38.3472681;-0.4742841;0.7;SE;YES;NO;3
+st.215;Alicante mid;Alicante;mid;ESP;Communidad_Valenciana;Western Mediterranean;187;;;;estimated;38.3472682;-0.4742842;0.7;SE;YES;NO;5
+st.216;Alicante deep;Alicante;deep;ESP;Communidad_Valenciana;Western Mediterranean;187;;;;estimated;38.3472683;-0.4742843;0.7;SE;YES;NO;2
+st.217;Santa Pola swash;Santa_Pola;swash;ESP;Communidad_Valenciana;Western Mediterranean;750;;;;estimated;38.1904891;-0.5765461;2.5;S;YES;YES;3
+st.218;Santa Pola mid;Santa_Pola;mid;ESP;Communidad_Valenciana;Western Mediterranean;375;;;;estimated;38.1904892;-0.5765462;2.5;S;YES;YES;4
+st.219;Santa Pola deep;Santa_Pola;deep;ESP;Communidad_Valenciana;Western Mediterranean;187;;;;estimated;38.1904893;-0.5765463;2.5;S;YES;YES;3
+st.220;Garrucha swash;Garrucha;swash;ESP;Communidad_Valenciana;Western Mediterranean;375;;;;estimated;37.1781891;-1.82093511;0.9;E;YES;YES;2
+st.221;Garrucha mid;Garrucha;mid;ESP;Communidad_Valenciana;Western Mediterranean;187;;;;estimated;37.1781892;-1.82093512;0.9;E;YES;YES;4
+st.222;Garrucha deep;Garrucha;deep;ESP;Communidad_Valenciana;Western Mediterranean;187;;;;estimated;37.1781893;-1.82093513;0.9;E;YES;YES;2
+st.223;Benajarafe swash;Benajarafe;swash;ESP;Communidad_Valenciana;Western Mediterranean;750;;;;estimated;36.7163641;-4.1737651;4.1;S;YES;NO;3
+st.224;Benajarafe mid;Benajarafe;mid;ESP;Communidad_Valenciana;Western Mediterranean;375;;;;estimated;36.7163642;-4.1737652;4.1;S;YES;NO;8
+st.225;Benajarafe deep;Benajarafe;deep;ESP;Communidad_Valenciana;Western Mediterranean;375;;;;estimated;36.7163643;-4.1737653;4.1;S;YES;NO;6
+st.126;Savona deep;Savona;deep;ITA;Liguria;Western Mediterranean;2150.3;;;;estimated;44.2948381;8.4642161;4.5;SE;YES;YES;0
+st.001;Les Grottes swash;Les_Grottes;swash;TUN;North_Tunisia;Tunisian_plateau;400.9;1.457;0.246;1.085;ok;37.3334342;9.8449012;0.45;N;YES;NO;7
+st.002;Les Grottes mid;Les_Grottes;mid;TUN;North_Tunisia;Tunisian_plateau;398.4;1.505;0.264;1.235;ok;37.3334343;9.8449013;0.45;N;YES;NO;6
+st.003;Les Grottes deep;Les_Grottes;deep;TUN;North_Tunisia;Tunisian_plateau;260.3;1.547;-0.056;0.741;ok;37.3334341;9.8449011;0.45;N;YES;NO;6
+st.004;Jarzouna swash;Jarzouna;swash;TUN;North_Tunisia;Tunisian_plateau;495.7;1.66;0.147;0.859;ok;37.2885792;9.9044002;2;NE;YES;YES;3
+st.005;Jarzouna mid;Jarzouna;mid;TUN;North_Tunisia;Tunisian_plateau;248.7;1.562;0.097;0.742;ok;37.2885793;9.9044003;2;NE;YES;YES;7
+st.006;Jarzouna deep;Jarzouna;deep;TUN;North_Tunisia;Tunisian_plateau;243.6;1.545;0.096;0.744;ok;37.2885791;9.9044001;2;NE;YES;YES;7
+st.007;La Marsa swash;La_Marsa;swash;TUN;North_Tunisia;Tunisian_plateau;855.6;2.031;0.116;1.022;ok;36.8856762;10.3343762;4;NE;YES;NO;4
+st.008;La Marsa mid;La_Marsa;mid;TUN;North_Tunisia;Tunisian_plateau;512.6;1.725;0.214;0.962;ok;36.8856763;10.3343763;4;NE;YES;NO;6
+st.009;La Marsa deep;La_Marsa;deep;TUN;North_Tunisia;Tunisian_plateau;255.5;1.576;-0.066;0.741;ok;36.8856761;10.3343761;4;NE;YES;NO;3
+st.010;Gammarth swah;Gammarth;swash;TUN;North_Tunisia;Tunisian_plateau;341.3;1.495;-0.037;1.352;ok;36.9228042;10.2917852;20.5;NE;YES;NO;5
+st.011;Gammarth mid;Gammarth;mid;TUN;North_Tunisia;Tunisian_plateau;253.1;1.563;0.023;0.738;ok;36.9228043;10.2917853;20.5;NE;YES;NO;3
+st.012;Gammarth deep;Gammarth;deep;TUN;North_Tunisia;Tunisian_plateau;177;1.39;0.023;1.241;ok;36.9228041;10.2917851;20.5;NE;YES;NO;3
+st.013;Le Kram swash;Le_Kram;swash;TUN;North_Tunisia;Tunisian_plateau;331.1;2.379;0.273;0.919;ok;36.8274812;10.3181112;1.5;SE;YES;YES;5
+st.014;Le Kram mid;Le_Kram;mid;TUN;North_Tunisia;Tunisian_plateau;182.5;1.443;0.071;1.309;ok;36.8274813;10.3181113;1.5;SE;YES;YES;2
+st.015;Le Kram deep;Le_Kram;deep;TUN;North_Tunisia;Tunisian_plateau;176.2;1.491;0.033;1.456;ok;36.8274811;10.3181111;1.5;SE;YES;YES;0
+st.016;Mahdia swash;Mahdia;swash;TUN;North_Tunisia;Tunisian_plateau;783.4;2.122;0.032;1.189;ok;35.5226822;11.0421862;10.82;E;YES;NO;3
+st.017;Mahdia mid;Mahdia;mid;TUN;North_Tunisia;Tunisian_plateau;336.5;1.748;0.21;0.934;ok;35.5226823;11.0421863;10.82;E;YES;NO;5
+st.018;Mahdia deep;Mahdia;deep;TUN;North_Tunisia;Tunisian_plateau;206.4;1.144;0.088;1.112;ok;35.5226821;11.0421861;10.82;E;YES;NO;2
+st.037;Mazara del Vallo swash;Mazara_del_Vallo;swash;ITA;Sicilia;Tunisian_plateau;447.1;2.287;-0.034;0.827;ok;37.6627722;12.5489552;2.9;S;YES;YES;4
+st.038;Mazara del Vallo mid;Mazara_del_Vallo;mid;ITA;Sicilia;Tunisian_plateau;177.1;1.54;0.066;1.547;ok;37.6627733;12.5489553;2.9;S;YES;YES;1
+st.039;Mazara del Vallo deep;Mazara_del_Vallo;deep;ITA;Sicilia;Tunisian_plateau;119.3;1.537;0.143;0.756;ok;37.6627711;12.5489551;2.9;S;YES;YES;3
+st.040;Porto Palo swash;Porto_Palo;swash;ITA;Sicilia;Tunisian_plateau;281.5;1.535;-0.185;0.802;ok;37.5759982;12.9099862;2.1;S;YES;YES;6
+st.041;Porto Palo mid;Porto_Palo;mid;ITA;Sicilia;Tunisian_plateau;214.3;1.494;0.262;0.969;ok;37.5759983;12.9099863;2.1;S;YES;YES;6
+st.042;Porto Palo deep;Porto_Palo;deep;ITA;Sicilia;Tunisian_plateau;176.1;1.42;0.004;1.315;ok;37.5759981;12.9099861;2.1;S;YES;YES;4
+st.043;Sciacca swash;Sciacca;swash;ITA;Sicilia;Tunisian_plateau;575.8;3.795;0.405;0.686;ok;37.5034292;13.0512952;1.4;S;YES;NO;2
+st.044;Sciacca mid;Sciacca;mid;ITA;Sicilia;Tunisian_plateau;345.4;1.286;-0.094;0.909;ok;37.5034293;13.0512953;1.4;S;YES;NO;3
+st.045;Sciacca deep;Sciacca;deep;ITA;Sicilia;Tunisian_plateau;179.3;1.332;0.132;1.014;ok;37.5034291;13.0512951;1.4;S;YES;NO;4
+st.046;Castellammare swash;Castellammare;swash;ITA;Sicilia;Western Mediterranean;683.4;2.609;0.093;1.068;ok;38.0243642;12.8997852;9.8;N;YES;YES;1
+st.047;Castellammare mid;Castellammare;mid;ITA;Sicilia;Western Mediterranean;316.1;2.169;0.346;1.168;ok;38.0243643;12.8997853;9.8;N;YES;YES;3
+st.048;Castellammare deep;Castellammare;deep;ITA;Sicilia;Western Mediterranean;184.9;1.371;0.173;1.127;ok;38.0243641;12.8997851;9.8;N;YES;YES;6
+st.049;Piane Vecchie swash;Piane_Vecchie;swash;ITA;Sicilia;Western Mediterranean;1837.2;2.656;-0.29;1.232;ok;38.0135392;13.9160792;11.2;N;YES;NO;7
+st.050;Piane Vecchie mid;Piane_Vecchie;mid;ITA;Sicilia;Western Mediterranean;429.7;3.633;0.597;0.743;ok;38.0135393;13.9160793;11.2;N;YES;NO;3
+st.051;Piane Vecchie deep;Piane_Vecchie;deep;ITA;Sicilia;Western Mediterranean;189.3;1.542;0.102;1.408;ok;38.0135391;13.9160791;11.2;N;YES;NO;1
+st.052;Trappeto swash;Trappeto;swash;ITA;Sicilia;Western Mediterranean;296.1;1.509;-0.236;0.904;ok;38.0731982;13.0540112;2;N;YES;NO;2
+st.053;Trappeto mid;Trappeto;mid;ITA;Sicilia;Western Mediterranean;440.6;1.871;0.472;1.897;ok;38.0731983;13.0540113;2;N;YES;NO;3
+st.054;Trappeto deep;Trappeto;deep;ITA;Sicilia;Western Mediterranean;548.2;1.549;-0.137;0.766;ok;38.0731981;13.0540111;2;N;YES;NO;5
+st.055;S'agata Militello swash;S'agata_Militello;swash;ITA;Sicilia;Western Mediterranean;992;3.389;0.095;0.747;ok;38.0708982;14.6236523;14.7;W;YES;YES;2
+st.056;S'agata Militello mid;S'agata_Militello;mid;ITA;Sicilia;Western Mediterranean;238.4;2.043;0.451;1.522;ok;38.0708983;14.6236533;14.7;W;YES;YES;3
+st.057;S'agata Militello deep;S'agata_Militello;deep;ITA;Sicilia;Western Mediterranean;229.4;1.632;0.117;0.856;ok;38.0708981;14.6236511;14.7;W;YES;YES;4
+st.058;Isola di Dino swash;Isola_di_Dino;swash;ITA;Calabria;Western Mediterranean;918;2.465;0.223;0.687;ok;39.8712482;15.7876172;1.3;W;YES;YES;1
+st.059;Isola di Dino mid;Isola_di_Dino;mid;ITA;Calabria;Western Mediterranean;4137.3;1.362;-1.928;0.132;ok;39.8712483;15.7876173;1.3;W;YES;YES;2
+st.060;Isola di Dino deep;Isola_di_Dino;deep;ITA;Calabria;Western Mediterranean;2986.8;1.913;-0.117;1.416;ok;39.8712481;15.7876171;1.3;W;YES;YES;0
+st.061;Diamante swash;Diamante;swash;ITA;Calabria;Western Mediterranean;1530.1;1.42;0.217;1.131;ok;39.6647422;15.8333652;1.2;W;YES;NO;3
+st.062;Diamante mid;Diamante;mid;ITA;Calabria;Western Mediterranean;1638.9;1.712;0.2;1.469;ok;39.6647423;15.8333653;1.2;W;YES;NO;3
+st.063;Diamante deep;Diamante;deep;ITA;Calabria;Western Mediterranean;269.7;1.674;0.007;0.881;ok;39.6647421;15.8333651;1.2;W;YES;NO;3
+st.064;Castrocucco swash;Castrocucco;swash;ITA;Basilicata;Western Mediterranean;1265.7;1.676;-0.067;1.341;ok;39.9335722;15.7502362;7.6;W;YES;NO;2
+st.065;Castrocucco mid;Castrocucco;mid;ITA;Basilicata;Western Mediterranean;1022.1;2.123;0.19;1.002;ok;39.9335733;15.7502363;7.6;W;YES;NO;1
+st.066;Castrocucco deep;Castrocucco;deep;ITA;Basilicata;Western Mediterranean;441.5;1.747;0.026;0.935;ok;39.9335711;15.7502361;7.6;W;YES;NO;3
+st.067;Amantea swash;Amantea;swash;ITA;Calabria;Western Mediterranean;1402.7;1.501;-0.006;1.418;ok;39.1003182;16.0787922;4.5;W;YES;NO;2
+st.068;Amantea mid;Amantea;mid;ITA;Calabria;Western Mediterranean;246.4;1.621;0.108;0.785;ok;39.1003183;16.0787933;4.5;W;YES;NO;3
+st.069;Amantea deep;Amantea;deep;ITA;Calabria;Western Mediterranean;1582.6;1.708;0.146;1.367;ok;39.1003181;16.0787911;4.5;W;YES;NO;4
+st.070;Paestum swash;Paestum;swash;ITA;Campania;Western Mediterranean;975.2;2.036;0.298;1.217;ok;40.4372252;14.9743992;12.9;W;YES;NO;1
+st.071;Paestum mid;Paestum;mid;ITA;Campania;Western Mediterranean;427.3;1.502;0.241;0.924;ok;40.4372253;14.9743993;12.9;W;YES;NO;4
+st.072;Paestum deep;Paestum;deep;ITA;Campania;Western Mediterranean;246.5;1.549;0.053;0.739;ok;40.4372251;14.9743991;12.9;W;YES;NO;4
+st.073;Torre Picentina swash;Torre_Picentina;swash;ITA;Campania;Western Mediterranean;1728.1;2.036;0.161;1.053;ok;40.6311422;14.8334362;0.9;W;YES;NO;1
+st.074;Torre Picentina mid;Torre_Picentina;mid;ITA;Campania;Western Mediterranean;390.5;1.439;0.227;1.086;ok;40.6311423;14.8334363;0.9;W;YES;NO;3
+st.075;Torre Picentina deep;Torre_Picentina;deep;ITA;Campania;Western Mediterranean;263.9;1.545;-0.107;0.75;ok;40.6311421;14.8334361;0.9;W;YES;NO;5
+st.079;Formia swash;Formia;swash;ITA;Lazio;Western Mediterranean;1059.9;1.869;0.29;0.916;ok;41.2487422;13.5888722;1.7;S;YES;YES;3
+st.080;Formia mid;Formia;mid;ITA;Lazio;Western Mediterranean;228.4;2.099;0.513;1.95;ok;41.2487433;13.5888723;1.7;S;YES;YES;2
+st.081;Formia deep;Formia;deep;ITA;Lazio;Western Mediterranean;154.5;1.593;-0.101;1.258;ok;41.2487411;13.5888721;1.7;S;YES;YES;1
+st.082;Terracina swash;Terracina;swash;ITA;Lazio;Western Mediterranean;1831.2;1.948;0.187;1.105;ok;41.2828262;13.2087992;4.3;S;YES;NO;1
+st.083;Terracina mid;Terracina;mid;ITA;Lazio;Western Mediterranean;199;1.482;0.29;1.227;ok;41.2828263;13.2087993;4.3;S;YES;NO;3
+st.084;Terracina deep;Terracina;deep;ITA;Lazio;Western Mediterranean;173.7;1.416;-0.032;1;ok;41.2828261;13.2087991;4.3;S;YES;NO;1
+st.085;Gaeta swash;Gaeta;swash;ITA;Lazio;Western Mediterranean;317.2;1.43;-0.232;1.091;ok;41.2373182;13.4844262;2.4;SW;YES;NO;6
+st.086;Gaeta mid;Gaeta;mid;ITA;Lazio;Western Mediterranean;232.6;1.528;0.169;0.771;ok;41.2373183;13.4844263;2.4;SW;YES;NO;4
+st.087;Gaeta deep;Gaeta;deep;ITA;Lazio;Western Mediterranean;219.1;1.511;0.246;0.882;ok;41.2373181;13.4844261;2.4;SW;YES;NO;3
+st.088;Marina di Latina swash;Marina_di_Latina;swash;ITA;Lazio;Western Mediterranean;554.8;2.042;-0.037;1.012;ok;41.4148732;12.8263162;9.6;SW;YES;NO;4
+st.089;Marina di Latina mid;Marina_di_Latina;mid;ITA;Lazio;Western Mediterranean;233.1;1.763;0.401;1.091;ok;41.4148733;12.8263163;9.6;SW;YES;NO;8
+st.090;Marina di Latina deep;Marina_di_Latina;deep;ITA;Lazio;Western Mediterranean;180.7;1.45;0.052;1.351;ok;41.4148731;12.8263161;9.6;SW;YES;NO;1
+st.091;Santa Severa swash;Santa_Severa;swash;ITA;Lazio;Western Mediterranean;1614.9;1.645;0.088;1.199;ok;42.0212612;11.9481352;1;SW;YES;NO;3
+st.092;Santa Severa mid;Santa_Severa;mid;ITA;Lazio;Western Mediterranean;374.7;2.609;0.453;1.459;ok;42.0212613;11.9481353;1;SW;YES;NO;3
+st.093;Santa Severa deep;Santa_Severa;deep;ITA;Lazio;Western Mediterranean;193.3;1.544;0.124;1.336;ok;42.0212611;11.9481351;1;SW;YES;NO;2
+st.094;Ansedonia swash;Ansedonia;swash;ITA;Lazio;Western Mediterranean;451.2;1.521;0.231;0.827;ok;42.4081322;11.2970582;47.4;SW;YES;NO;3
+st.095;Ansedonia mid;Ansedonia;mid;ITA;Lazio;Western Mediterranean;439.2;1.518;0.244;0.874;ok;42.4081333;11.2970583;47.4;SW;YES;NO;3
+st.096;Ansedonia deep;Ansedonia;deep;ITA;Lazio;Western Mediterranean;330;1.393;-0.189;1.105;ok;42.4081311;11.2970581;47.4;SW;YES;NO;3
+st.097;Principina swash;Principina;swash;ITA;Toscana;Western Mediterranean;323.2;1.643;-0.05;1.293;ok;42.6893162;10.9968632;5.9;SW;YES;NO;3
+st.098;Principina mid;Principina;mid;ITA;Toscana;Western Mediterranean;211;1.483;0.257;1.013;ok;42.6893163;10.9968633;5.9;SW;YES;NO;1
+st.099;Principina deep;Principina;deep;ITA;Toscana;Western Mediterranean;268.9;1.605;-0.016;0.829;ok;42.6893161;10.9968631;5.9;SW;YES;NO;4
+st.100;Castiglione swash;Castiglione;swash;ITA;Toscana;Western Mediterranean;619.8;2.049;0.045;1.104;ok;42.7631392;10.8732642;1.3;SW;YES;NO;8
+st.101;Castiglione mid;Castiglione;mid;ITA;Toscana;Western Mediterranean;195.7;1.421;0.232;1.119;ok;42.7631393;10.8732643;1.3;SW;YES;NO;7
+st.102;Castiglione deep;Castiglione;deep;ITA;Toscana;Western Mediterranean;152.2;1.585;-0.107;1.173;ok;42.7631391;10.8732641;1.3;SW;YES;NO;7
+st.103;Bagno Arcobaleno swash;Bagno_Arcobaleno;swash;ITA;Toscana;Western Mediterranean;492.4;1.943;0.022;1.132;ok;42.7676052;10.8532762;5.7;SW;YES;NO;3
+st.104;Bagno Arcobaleno mid;Bagno_Arcobaleno;mid;ITA;Toscana;Western Mediterranean;185.9;1.375;0.239;1.099;ok;42.7676053;10.8532763;5.7;SW;YES;NO;7
+st.105;Bagno Arcobaleno deep;Bagno_Arcobaleno;deep;ITA;Toscana;Western Mediterranean;178.4;1.497;-0.094;1.143;ok;42.7676051;10.8532761;5.7;SW;YES;NO;3
+st.106;Torre Civette swash;Torre_Civette;swash;ITA;Toscana;Western Mediterranean;623.4;2.893;0.012;0.987;ok;42.8472982;10.7756142;0.4;SW;YES;NO;3
+st.107;Torre Civette mid;Torre_Civette;mid;ITA;Toscana;Western Mediterranean;188.4;1.501;0.197;0.884;ok;42.8472983;10.7756143;0.4;SW;YES;NO;6
+st.108;Torre Civette deep;Torre_Civette;deep;ITA;Toscana;Western Mediterranean;142.2;1.482;-0.188;1.042;ok;42.8472981;10.7756141;0.4;SW;YES;NO;5
+st.109;Weltring swash;Weltring;swash;ITA;Toscana;Western Mediterranean;706;2.661;-0.016;0.861;ok;42.8105532;10.7603652;4.5;NW;YES;NO;5
+st.110;Weltring mid;Weltring;mid;ITA;Toscana;Western Mediterranean;235.1;1.554;0.185;0.772;ok;42.8105533;10.7603653;4.5;NW;YES;NO;6
+st.111;Weltring deep;Weltring;deep;ITA;Toscana;Western Mediterranean;157.7;1.454;-0.235;1.072;ok;42.8105531;10.7603651;4.5;NW;YES;NO;8
+st.112;Baratti swash;Baratti;swash;ITA;Toscana;Western Mediterranean;969.4;3.31;-0.239;0.703;ok;42.9903742;10.5051272;1.6;NW;NO;YES;2
+st.113;Baratti mid;Baratti;mid;ITA;Toscana;Western Mediterranean;172.2;1.321;-0.138;1.02;ok;42.9903743;10.5051273;1.6;NW;NO;YES;1
+st.114;Baratti deep;Baratti;deep;ITA;Toscana;Western Mediterranean;164;1.462;-0.125;1.223;ok;42.9903741;10.5051271;1.6;NW;NO;YES;2
+st.115;Cecina swash;Cecina;swash;ITA;Toscana;Western Mediterranean;384.9;1.697;0.164;1.496;ok;43.2885422;10.5033292;0.3;NW;NO;NO;5
+st.116;Cecina mid;Cecina;mid;ITA;Toscana;Western Mediterranean;306.9;1.659;-0.059;1.181;ok;43.2885423;10.5033293;0.3;NW;NO;NO;4
+st.117;Cecina deep;Cecina;deep;ITA;Toscana;Western Mediterranean;223.3;1.681;0.037;0.921;ok;43.2885421;10.5033291;0.3;NW;NO;NO;8
+st.118;Tirrenia swash;Tirrenia;swash;ITA;Toscana;Western Mediterranean;355.7;1.398;0.029;1.252;ok;43.6233052;10.2869992;8.5;W;YES;NO;4
+st.119;Tirrenia mid;Tirrenia;mid;ITA;Toscana;Western Mediterranean;356.7;1.426;0.023;1.308;ok;43.6233053;10.2869993;8.5;W;YES;NO;4
+st.120;Tirrenia deep;Tirrenia;deep;ITA;Toscana;Western Mediterranean;216.5;1.703;0.022;0.952;ok;43.6233051;10.2869991;8.5;W;YES;NO;3
+st.121;Bocca di Magra swash;Bocca_di_Magra;swash;ITA;Toscana;Western Mediterranean;1263.1;2.252;0.171;1.031;ok;44.0442052;9.9856762;0.1;SE;YES;NO;5
+st.122;Bocca di Magra mid;Bocca_di_Magra;mid;ITA;Toscana;Western Mediterranean;1422.5;2.71;0.019;0.948;ok;44.0442053;9.9856763;0.1;SE;YES;NO;5
+st.123;Bocca di Magra deep;Bocca_di_Magra;deep;ITA;Toscana;Western Mediterranean;1136.8;2.032;0.352;0.977;ok;44.0442051;9.9856761;0.1;SE;YES;NO;0
+st.124;Savona swash;Savona;swash;ITA;Liguria;Western Mediterranean;927.5;2.776;0.03;0.948;ok;44.2948382;8.4642162;4.5;SE;YES;YES;2
+st.125;Savona mid;Savona;mid;ITA;Liguria;Western Mediterranean;2150.3;1.893;0.022;0.974;ok;44.2948383;8.4642163;4.5;SE;YES;YES;1
+st.127;Laigueglia swash;Laigueglia;swash;ITA;Liguria;Western Mediterranean;194.3;1.49;0.293;1.326;ok;43.9884881;8.1618861;4.7;SE;YES;YES;5
+st.128;Laigueglia mid;Laigueglia;mid;ITA;Liguria;Western Mediterranean;181;1.364;0.175;1.134;ok;43.9884882;8.1618862;4.7;SE;YES;YES;4
+st.129;Laigueglia deep;Laigueglia;deep;ITA;Liguria;Western Mediterranean;176;1.458;0.023;1.412;ok;43.9884883;8.1618863;4.7;SE;YES;YES;3
+st.130;Ventimiglia swash;Ventimiglia;swash;ITA;Liguria;Western Mediterranean;1471.5;1.818;0.038;1.109;ok;43.7884241;7.6034311;0.8;SW;YES;YES;1
+st.131;Ventimiglia mid;Ventimiglia;mid;ITA;Liguria;Western Mediterranean;197.6;2.095;0.41;2.932;ok;43.7884242;7.6034312;0.8;SW;YES;YES;0
+st.132;Ventimiglia deep;Ventimiglia;deep;ITA;Liguria;Western Mediterranean;134.5;1.566;-0.147;0.763;ok;43.7884243;7.6034313;0.8;SW;YES;YES;1
+st.133;Saint Maxime swash;Saint_Maxime;swash;FRA;Provence-Alpes-Côte d'Azur;Western Mediterranean;1635.6;2.22;-0.095;0.76;ok;43.3069241;6.6340671;0.3;S;YES;YES;1
+st.134;Saint Maxime mid;Saint_Maxime;mid;FRA;Provence-Alpes-Côte d'Azur;Western Mediterranean;1718.5;1.662;0.077;1.012;ok;43.3069242;6.6340672;0.3;S;YES;YES;1
+st.135;Saint Maxime deep;Saint_Maxime;deep;FRA;Provence-Alpes-Côte d'Azur;Western Mediterranean;237.6;1.562;0.093;0.747;ok;43.3069243;6.6340673;0.3;S;YES;YES;2
+st.136;Grimaud plage swash;Grimaud_plage;swash;FRA;Provence-Alpes-Côte d'Azur;Western Mediterranean;639.2;2.007;0.01;0.922;ok;43.2769461;6.5840641;1.8;SE;YES;NO;2
+st.137;Grimaud plage mid;Grimaud_plage;mid;FRA;Provence-Alpes-Côte d'Azur;Western Mediterranean;247.1;2.235;0.477;1.56;ok;43.2769462;6.5840642;1.8;SE;YES;NO;2
+st.138;Grimaud plage deep;Grimaud_plage;deep;FRA;Provence-Alpes-Côte d'Azur;Western Mediterranean;250.3;1.572;-0.001;0.738;ok;43.2769463;6.5840643;1.8;SE;YES;NO;1
+st.139;Juan Les Pins swash;Juan_Les_Pins;swash;FRA;Provence-Alpes-Côte d'Azur;Western Mediterranean;708.4;1.238;0;0.738;ok;43.5708881;7.0988621;2.8;S;YES;NO;0
+st.140;Juan Les Pins mid;Juan_Les_Pins;mid;FRA;Provence-Alpes-Côte d'Azur;Western Mediterranean;488;1.979;-0.09;1.043;ok;43.5708882;7.0988622;2.8;S;YES;NO;1
+st.141;Juan Les Pins deep;Juan_Les_Pins;deep;FRA;Provence-Alpes-Côte d'Azur;Western Mediterranean;134;1.844;0.233;1.077;ok;43.5708883;7.0988623;2.8;S;YES;NO;1
+st.142;Almanarre Plage swash;Almanarre_Plage;swash;FRA;Provence-Alpes-Côte d'Azur;Western Mediterranean;1620;1.975;-0.121;1.179;ok;43.0785111;6.1254111;4.3;W;NO;NO;4
+st.143;Almanarre Plage mid;Almanarre_Plage;mid;FRA;Provence-Alpes-Côte d'Azur;Western Mediterranean;1228.2;3.698;-0.557;1.369;ok;43.0785222;6.1254112;4.3;W;NO;NO;2
+st.144;Almanarre Plage deep;Almanarre_Plage;deep;FRA;Provence-Alpes-Côte d'Azur;Western Mediterranean;136.5;1.595;-0.058;0.833;ok;43.0785333;6.1254113;4.3;W;NO;NO;2
+st.145;Hyeres swash;Hyeres;swash;FRA;Provence-Alpes-Côte d'Azur;Western Mediterranean;1196.6;1.675;-0.124;1.206;ok;43.0720931;6.1533611;1.2;W;NO;YES;3
+st.146;Hyeres mid;Hyeres;mid;FRA;Provence-Alpes-Côte d'Azur;Western Mediterranean;674.1;2.664;-0.101;1.403;ok;43.0720932;6.1533622;1.2;W;NO;YES;3
+st.147;Hyeres deep;Hyeres;deep;FRA;Provence-Alpes-Côte d'Azur;Western Mediterranean;167.4;1.379;-0.164;1.098;ok;43.0720933;6.1533633;1.2;W;NO;YES;2
+st.148;Marseille swash;Marseille;swash;FRA;Provence-Alpes-Côte d'Azur;Western Mediterranean;1254.3;1.866;-0.099;1.096;ok;43.3584731;5.2943681;0.1;S;NO;YES;2
+st.149;Marseille mid;Marseille;mid;FRA;Provence-Alpes-Côte d'Azur;Western Mediterranean;364.8;2.123;0.398;1.045;ok;43.3584732;5.2943682;0.1;S;NO;YES;5
+st.150;Marseille deep;Marseille;deep;FRA;Provence-Alpes-Côte d'Azur;Western Mediterranean;224;1.481;0.008;1.053;ok;43.3584733;5.2943683;0.1;S;NO;YES;5
+st.151;Frontignan Plage swash;Frontignan_Plage;swash;FRA;Occitanie;Western Mediterranean;785.1;2.826;-0.156;1.007;ok;43.4462371;3.8046481;16.1;SE;NO;NO;4
+st.152;Frontignan Plage mid;Frontignan_Plage;mid;FRA;Occitanie;Western Mediterranean;289.1;2.064;0.416;0.943;ok;43.4462372;3.8046482;16.1;SE;NO;NO;1
+st.153;Frontignan Plage deep;Frontignan_Plage;deep;FRA;Occitanie;Western Mediterranean;164.4;1.459;-0.116;1.234;ok;43.4462373;3.8046483;16.1;SE;NO;NO;2
+st.154;Palavas les Flots swash;Palavas_les_Flots;swash;FRA;Occitanie;Western Mediterranean;1840.6;2.18;-0.089;0.991;ok;43.5358311;3.9585411;3.6;SE;NO;NO;3
+st.155;Palavas les Flots mid;Palavas_les_Flots;mid;FRA;Occitanie;Western Mediterranean;247.4;1.815;0.383;1.067;ok;43.5358322;3.9585422;3.6;SE;NO;NO;3
+st.156;Palavas les Flots deep;Palavas_les_Flots;deep;FRA;Occitanie;Western Mediterranean;184.2;1.442;0.11;1.298;ok;43.5358333;3.9585433;3.6;SE;NO;NO;2
+st.157;Agde swash;Agde;swash;FRA;Occitanie;Western Mediterranean;1233.4;2.32;-0.102;0.997;ok;43.3013971;3.5405161;3.6;SE;YES;YES;2
+st.158;Agde mid;Agde;mid;FRA;Occitanie;Western Mediterranean;308.4;1.522;0.024;0.804;ok;43.3013972;3.5405162;3.6;SE;YES;YES;4
+st.159;Agde deep;Agde;deep;FRA;Occitanie;Western Mediterranean;238.2;1.672;0.248;0.852;ok;43.3013973;3.5405163;3.6;SE;YES;YES;3
+st.160;Saint Pierre la mer swash;Saint_Pierre_la_mer;swash;FRA;Occitanie;Western Mediterranean;428.2;1.616;0.101;0.933;ok;43.1808511;3.1977851;5.6;SE;YES;NO;3
+st.161;Saint Pierre la mer mid;Saint_Pierre_la_mer;mid;FRA;Occitanie;Western Mediterranean;278.4;1.547;-0.164;0.783;ok;43.1808522;3.1977852;5.6;SE;YES;NO;5
+st.162;Saint Pierre la mer deep;Saint_Pierre_la_mer;deep;FRA;Occitanie;Western Mediterranean;224;1.55;0.241;0.84;ok;43.1808533;3.1977853;5.6;SE;YES;NO;4
+st.163;Narbonne Plage swash;Narbonne_Plage;swash;FRA;Occitanie;Western Mediterranean;410.1;1.602;0.11;1.157;ok;43.1732491;3.1875711;0.9;SE;YES;NO;4
+st.164;Narbonne Plage mid;Narbonne_Plage;mid;FRA;Occitanie;Western Mediterranean;280.5;1.557;-0.153;0.817;ok;43.1732492;3.1875712;0.9;SE;YES;NO;5
+st.165;Narbonne Plage deep;Narbonne_Plage;deep;FRA;Occitanie;Western Mediterranean;218.9;1.537;0.259;0.896;ok;43.1732493;3.1875713;0.9;SE;YES;NO;4
+st.166;S.Marie La Mer swash;S.Marie_La_Mer;swash;FRA;Occitanie;Western Mediterranean;1839.8;1.589;0.033;0.847;ok;42.7356541;3.0385511;3.2;E;YES;NO;2
+st.167;S.Marie La Mer mid;S.Marie_La_Mer;mid;FRA;Occitanie;Western Mediterranean;698.8;1.321;-0.122;0.976;ok;42.7356542;3.0385522;3.2;E;YES;NO;1
+st.168;S.Marie La Mer deep;S.Marie_La_Mer;deep;FRA;Occitanie;Western Mediterranean;489.1;1.543;0.068;0.741;ok;42.7356543;3.0385533;3.2;E;YES;NO;3
+st.169;La Racou swash;La_Racou;swash;FRA;Occitanie;Western Mediterranean;2120.2;1.613;0.024;0.823;ok;42.5387471;3.0554111;0.7;E;YES;YES;3
+st.170;La Racou mid;La_Racou;mid;FRA;Occitanie;Western Mediterranean;2861.9;1.676;0.02;1.252;ok;42.5387472;3.0554112;0.7;E;YES;YES;1
+st.171;La Racou deep;La_Racou;deep;FRA;Occitanie;Western Mediterranean;1368;1.343;-0.157;1.076;ok;42.5387473;3.0554113;0.7;E;YES;YES;0
+st.172;Banjuls swash;Banjuls;swash;FRA;Occitanie;Western Mediterranean;1038.3;1.822;0.283;0.919;ok;42.4818611;3.1306671;0.4;NE;YES;YES;5
+st.173;Banjuls mid;Banjuls;mid;FRA;Occitanie;Western Mediterranean;392.8;1.553;0.032;0.754;ok;42.4818622;3.1306672;0.4;NE;YES;YES;7
+st.174;Banjuls deep;Banjuls;deep;FRA;Occitanie;Western Mediterranean;324.4;2.37;0.043;0.991;ok;42.4818633;3.1306673;0.4;NE;YES;YES;5
+st.175;Cerberes swash;Cerberes;swash;FRA;Occitanie;Western Mediterranean;1426.1;1.737;0.245;0.859;ok;42.4420261;3.1661351;0.1;W;YES;NO;2
+st.176;Cerberes mid;Cerberes;mid;FRA;Occitanie;Western Mediterranean;323.1;1.622;0.028;0.901;ok;42.4420262;3.1661352;0.1;W;YES;NO;6
+st.177;Cerberes deep;Cerberes;deep;FRA;Occitanie;Western Mediterranean;314.8;1.693;-0.005;1.169;ok;42.4420263;3.1661353;0.1;W;YES;NO;6
+st.178;Colera swash;Colera;swash;ESP;Catalunya;Western Mediterranean;1514.6;2.217;0.08;0.887;ok;42.4046151;3.1569731;0.1;N;YES;YES;3
+st.179;Colera mid;Colera;mid;ESP;Catalunya;Western Mediterranean;599.4;2.28;0.222;1.167;ok;42.4046152;3.1569732;0.1;N;YES;YES;5
+st.180;Colera deep;Colera;deep;ESP;Catalunya;Western Mediterranean;323.9;1.724;0.008;1.099;ok;42.4046153;3.1569733;0.1;N;YES;YES;8
+st.181;L'Estartit swash;L'Estartit;swash;ESP;Catalunya;Western Mediterranean;1725.9;1.755;0.137;1.09;ok;42.0477931;3.1986251;3.2;W;YES;YES;5
+st.182;L'Estartit mid;L'Estartit;mid;ESP;Catalunya;Western Mediterranean;412.2;1.877;0.329;2.014;ok;42.0477932;3.1986252;3.2;W;YES;YES;6
+st.183;L'Estartit deep;L'Estartit;deep;ESP;Catalunya;Western Mediterranean;264.4;1.537;-0.119;0.752;ok;42.0477933;3.1986253;3.2;W;YES;YES;6
+st.184;Empuria Brava swash;Empuria_Brava;swash;ESP;Catalunya;Western Mediterranean;3132.3;1.607;0.084;1.281;ok;42.2481411;3.1355071;1.8;SW;NO;NO;3
+st.185;Empuria Brava mid;Empuria_Brava;mid;ESP;Catalunya;Western Mediterranean;211.3;1.474;0.264;1.04;ok;42.2481412;3.1355072;1.8;SW;NO;NO;2
+st.186;Empuria Brava deep;Empuria_Brava;deep;ESP;Catalunya;Western Mediterranean;191.4;1.463;0.212;1.248;ok;42.2481413;3.1355073;1.8;SW;NO;NO;4
+st.187;Blanes swash;Blanes;swash;ESP;Catalunya;Western Mediterranean;3024.2;1.722;0.035;1.108;ok;41.6719511;2.7914591;3;SW;YES;YES;4
+st.188;Blanes mid;Blanes;mid;ESP;Catalunya;Western Mediterranean;1458.6;1.822;0.099;1.089;ok;41.6719512;2.7914592;3;SW;YES;YES;6
+st.189;Blanes deep;Blanes;deep;ESP;Catalunya;Western Mediterranean;422.4;1.866;0.326;1.997;ok;41.6719513;2.7914593;3;SW;YES;YES;4
+st.190;Castelldefels swash;Castelldefels;swash;ESP;Catalunya;Western Mediterranean;1696.4;1.86;0.154;1.261;ok;41.2638241;1.9616691;14.6;S;YES;YES;2
+st.191;Castelldefels mid;Castelldefels;mid;ESP;Catalunya;Western Mediterranean;255.5;1.768;0.31;0.944;ok;41.2638242;1.9616692;14.6;S;YES;YES;3
+st.192;Castelldefels deep;Castelldefels;deep;ESP;Catalunya;Western Mediterranean;180.8;1.469;0.053;1.388;ok;41.2638243;1.9616693;14.6;S;YES;YES;1
+st.193;Hospitalet de l'Infant swash;Hospitalet_de_Infant;swash;ESP;Communidad_Valenciana;Western Mediterranean;1586.3;2.128;-0.101;1.289;ok;40.9853511;0.9123891;2.2;S;YES;YES;6
+st.194;Hospitalet de l'Infant mid;Hospitalet_de_Infant;mid;ESP;Communidad_Valenciana;Western Mediterranean;249.9;1.785;0.291;0.953;ok;40.9853522;0.9123892;2.2;S;YES;YES;7
+st.195;Hospitalet de l'Infantdeep;Hospitalet_de_Infant;deep;ESP;Communidad_Valenciana;Western Mediterranean;239;1.89;0.055;1.025;ok;40.9853533;0.9123893;2.2;S;YES;YES;6
+st.196;Benicarlò swash;Benicarlò;swash;ESP;Communidad_Valenciana;Western Mediterranean;2409.6;1.601;-0.145;1.185;ok;40.4069961;0.4247811;5.9;E;YES;YES;1
+st.197;Benicarlò mid;Benicarlò;mid;ESP;Communidad_Valenciana;Western Mediterranean;1468;2.301;-0.068;1.085;ok;40.4069962;0.4247812;5.9;E;YES;YES;2
+st.198;Benicarlò deep;Benicarlò;deep;ESP;Communidad_Valenciana;Western Mediterranean;1331.9;2.076;-0.097;1.056;ok;40.4069963;0.4247813;5.9;E;YES;YES;0
+st.199;Torre Nostra swash;Torre_Nostra;swash;ESP;Communidad_Valenciana;Western Mediterranean;596.4;3.708;0.432;0.651;ok;40.1911841;0.2205991;0.3;E;YES;NO;4
+st.200;Torre Nostra mid;Torre_Nostra;mid;ESP;Communidad_Valenciana;Western Mediterranean;171.9;1.466;-0.025;1.341;ok;40.1911842;0.2205992;0.3;E;YES;NO;3
+st.201;Torre Nostra deep;Torre_Nostra;deep;ESP;Communidad_Valenciana;Western Mediterranean;164.8;1.541;-0.067;1.325;ok;40.1911843;0.2205993;0.3;E;YES;NO;2
+st.202;Pirulì swash;Pirulì;swash;ESP;Communidad_Valenciana;Western Mediterranean;445.4;2.141;-0.19;0.84;ok;40.0155111;0.0386691;7.9;E;YES;NO;1
+st.203;Pirulì mid;Pirulì;mid;ESP;Communidad_Valenciana;Western Mediterranean;175.6;1.408;-0.015;1.274;ok;40.0155222;0.0386692;7.9;E;YES;NO;3
+st.204;Pirulì deep;Pirulì;deep;ESP;Communidad_Valenciana;Western Mediterranean;174.4;1.321;-0.123;0.98;ok;40.0155333;0.0386693;7.9;E;YES;NO;3
+st.205;Puig Playa swash;Puig_Playa;swash;ESP;Communidad_Valenciana;Western Mediterranean;422.8;2.662;0.348;0.789;ok;39.5846491;-0.2720991;1.7;E;YES;NO;4
+st.206;Puig Playa mid;Puig_Playa;mid;ESP;Communidad_Valenciana;Western Mediterranean;165.8;1.396;-0.184;1.093;ok;39.5846492;-0.2720992;1.7;E;YES;NO;2
+st.207;Puig Playa deep;Puig_Playa;deep;ESP;Communidad_Valenciana;Western Mediterranean;157.3;1.457;-0.241;1.085;ok;39.5846493;-0.2720993;1.7;E;YES;NO;1
+st.208;Oliva swash;Oliva;swash;ESP;Communidad_Valenciana;Western Mediterranean;244.9;1.542;0.083;0.742;ok;38.9093421;-0.0676111;10.1;NE;YES;NO;5
+st.209;Oliva mid;Oliva;mid;ESP;Communidad_Valenciana;Western Mediterranean;210.8;1.477;0.27;1.072;ok;38.9093422;-0.0676122;10.1;NE;YES;NO;1
+st.210;Oliva deep;Oliva;deep;ESP;Communidad_Valenciana;Western Mediterranean;182.1;1.347;0.156;1.073;ok;38.9093423;-0.0676133;10.1;NE;YES;NO;2
+st.211;Cullera swash;Cullera;swash;ESP;Communidad_Valenciana;Western Mediterranean;253.9;1.472;0.024;0.697;ok;39.1713011;-0.2388591;3.7;W;YES;NO;3
+st.212;Cullera mid;Cullera;mid;ESP;Communidad_Valenciana;Western Mediterranean;232.4;1.398;0.322;1.195;ok;39.1713012;-0.2388592;3.7;W;YES;NO;2
+st.213;Cullera deep;Cullera;deep;ESP;Communidad_Valenciana;Western Mediterranean;196.4;1.244;0.188;1.012;ok;39.1713013;-0.2388593;3.7;W;YES;NO;3
+st.226;Santa Amanza swash;Santa_Amanza;swash;FRA;Corse;Western Mediterranean;2344.7;1.713;-0.071;0.992;ok;41.4160671;9.2368311;0.2;N;NO;NO;3
+st.227;Santa Amanza mid;Santa_Amanza;mid;FRA;Corse;Western Mediterranean;2353.6;1.941;-0.073;1.022;ok;41.4160672;9.2368322;0.2;N;NO;NO;1
+st.228;Santa Amanza deep;Santa_Amanza;deep;FRA;Corse;Western Mediterranean;438;2.902;0.377;1.198;ok;41.4160673;9.2368333;0.2;N;NO;NO;4
+st.229;Rondinara swash;Rondinara;swash;FRA;Corse;Western Mediterranean;2370.5;1.84;0.083;0.967;ok;41.4659131;9.2676891;0.3;S;NO;NO;1
+st.230;Rondinara mid;Rondinara;mid;FRA;Corse;Western Mediterranean;1279.4;1.912;0.115;1.116;ok;41.4659132;9.2676892;0.3;S;NO;NO;4
+st.231;Rondinara deep;Rondinara;deep;FRA;Corse;Western Mediterranean;323.7;2.683;0.343;0.783;ok;41.4659133;9.2676893;0.3;S;NO;NO;3
+st.232;Balistro swash;Balistro;swash;FRA;Corse;Western Mediterranean;1773.4;1.524;0.201;0.817;ok;41.4381721;9.2228121;0.8;E;NO;NO;5
+st.233;Balistro mid;Balistro;mid;FRA;Corse;Western Mediterranean;1333.6;2.041;0.17;0.858;ok;41.4381722;9.2228122;0.8;E;NO;NO;3
+st.234;Balistro deep;Balistro;deep;FRA;Corse;Western Mediterranean;490.3;1.537;0.035;0.739;ok;41.4381723;9.2228123;0.8;E;NO;NO;6
+st.235;Santa Giulia swash;Santa_Giulia;swash;FRA;Corse;Western Mediterranean;178.5;1.545;0.048;1.464;ok;41.5256491;9.2719931;1.3;E;NO;NO;3
+st.236;Santa Giulia mid;Santa_Giulia;mid;FRA;Corse;Western Mediterranean;175.6;1.672;0.109;1.704;ok;41.5256492;9.2719932;1.3;E;NO;NO;1
+st.237;Santa Giulia deep;Santa_Giulia;deep;FRA;Corse;Western Mediterranean;145.5;1.505;-0.228;0.889;ok;41.5256493;9.2719933;1.3;E;NO;NO;1
+st.238;Ficareto swash;Ficareto;swash;FRA;Corse;Western Mediterranean;1472.6;2.324;0.123;0.896;ok;42.4157031;9.5405031;34.1;E;YES;NO;2
+st.239;Ficareto mid;Ficareto;mid;FRA;Corse;Western Mediterranean;290.7;1.721;0.006;0.986;ok;42.4157032;9.5405032;34.1;E;YES;NO;4
+st.240;Ficareto deep;Ficareto;deep;FRA;Corse;Western Mediterranean;126.7;1.592;0.003;0.743;ok;42.4157033;9.5405033;34.1;E;YES;NO;1
+st.241;Cervione swash;Cervione;swash;FRA;Corse;Western Mediterranean;987.9;1.79;0.007;0.981;ok;42.3212461;9.5478491;1.9;E;YES;YES;3
+st.242;Cervione mid;Cervione;mid;FRA;Corse;Western Mediterranean;192.9;1.555;0.106;1.323;ok;42.3212462;9.5478492;1.9;E;YES;YES;5
+st.243;Cervione deep;Cervione;deep;FRA;Corse;Western Mediterranean;231.3;1.537;0.177;0.776;ok;42.3212463;9.5478493;1.9;E;YES;YES;4
+st.244;Calvi swash;Calvi;swash;FRA;Corse;Western Mediterranean;183.1;1.397;0.149;1.191;ok;42.5612131;8.7577621;2.8;NE;YES;YES;2
+st.245;Calvi mid;Calvi;mid;FRA;Corse;Western Mediterranean;184.6;1.383;0.179;1.15;ok;42.5612132;8.7577622;2.8;NE;YES;YES;4
+st.246;Calvi deep;Calvi;deep;FRA;Corse;Western Mediterranean;259;1.558;-0.016;0.738;ok;42.5612133;8.7577623;2.8;NE;YES;YES;4
+st.247;Occelluccia swash;Occelluccia;swash;FRA;Corse;Western Mediterranean;2943.1;1.794;-0.154;0.632;ok;42.5719951;8.7262081;0.1;E;NO;NO;1
+st.248;Occelluccia mid;Occelluccia;mid;FRA;Corse;Western Mediterranean;5022;1.28;-3.224;0.179;ok;42.5719952;8.7262082;0.1;E;NO;NO;3
+st.249;Occelluccia deep;Occelluccia;deep;FRA;Corse;Western Mediterranean;314.4;1.671;-0.054;1.163;ok;42.5719953;8.7262083;0.1;E;NO;NO;1
+st.250;Alga plage swash;Alga_plage;swash;FRA;Corse;Western Mediterranean;591.5;2.593;0.386;0.969;ok;42.5617311;8.7277641;0.1;N;NO;NO;1
+st.251;Alga plage mid;Alga_plage;mid;FRA;Corse;Western Mediterranean;850.5;3.12;0.175;0.754;ok;42.5617312;8.7277642;0.1;N;NO;NO;2
+st.252;Alga plage deep;Alga_plage;deep;FRA;Corse;Western Mediterranean;300.1;1.814;0.066;1.478;ok;42.5617313;8.7277643;0.1;N;NO;NO;1
+st.253;Propriano swash;Propriano;swash;FRA;Corse;Western Mediterranean;2037.4;1.532;-0.041;0.739;ok;41.6848711;8.9162361;1.1;W;NO;NO;0
+st.254;Propriano mid;Propriano;mid;FRA;Corse;Western Mediterranean;3034.9;1.534;0.075;1.305;ok;41.6848722;8.9162362;1.1;W;NO;NO;0
+st.255;Propriano deep;Propriano;deep;FRA;Corse;Western Mediterranean;1928.4;1.541;0.121;0.749;ok;41.6848733;8.9162363;1.1;W;NO;NO;0
+st.256;Bosa swash;Bosa;swash;ITA;Sardegna;Western Mediterranean;621.4;1.442;-0.246;1.089;ok;40.2885221;8.4786451;0.8;S;YES;YES;3
+st.257;Bosa mid;Bosa;mid;ITA;Sardegna;Western Mediterranean;556.6;1.536;-0.189;0.797;ok;40.2885222;8.4786452;0.8;S;YES;YES;5
+st.258;Bosa deep;Bosa;deep;ITA;Sardegna;Western Mediterranean;229.2;1.695;0.033;0.899;ok;40.2885223;8.4786453;0.8;S;YES;YES;3
+st.259;Cala St. Andrea swash;Cala_St._Andrea;swash;ITA;Sardegna;Western Mediterranean;457.7;1.554;0.219;0.803;ok;41.0133221;8.2504211;0.4;NE;NO;NO;5
+st.260;Cala St. Andrea mid;Cala_St._Andrea;mid;ITA;Sardegna;Western Mediterranean;425.1;1.515;0.235;0.915;ok;41.0133222;8.2504212;0.4;NE;NO;NO;3
+st.261;Cala St. Andrea deep;Cala_St._Andrea;deep;ITA;Sardegna;Western Mediterranean;388.7;1.553;0.104;1.302;ok;41.0133223;8.2504213;0.4;NE;NO;NO;3
+st.262;Ossario (L'Asinara)swash;Ossario_La_maddalena;swash;ITA;Sardegna;Western Mediterranean;398.9;2.209;0.144;0.921;ok;41.0631711;8.2809981;0.1;SE;NO;NO;1
+st.263;Ossario (L'Asinara) mid;Ossario_La_maddalena;mid;ITA;Sardegna;Western Mediterranean;287.4;1.615;-0.083;0.955;ok;41.0631712;8.2809982;0.1;SE;NO;NO;3
+st.264;Ossario (L'Asinara) deep;Ossario_La_maddalena;deep;ITA;Sardegna;Western Mediterranean;701.8;2.569;0.182;0.923;ok;41.0631713;8.2809983;0.1;SE;NO;NO;2
+st.265;Poglina swash;Poglina;swash;ITA;Sardegna;Western Mediterranean;442.3;1.62;0.388;1.247;ok;40.4962121;8.3677731;0.9;SW;NO;NO;2
+st.266;Poglina mid;Poglina;mid;ITA;Sardegna;Western Mediterranean;344.2;1.364;-0.142;1.097;ok;40.4962122;8.3677732;0.9;SW;NO;NO;4
+st.267;Poglina deep;Poglina;deep;ITA;Sardegna;Western Mediterranean;294.1;1.489;-0.252;0.969;ok;40.4962123;8.3677733;0.9;SW;NO;NO;9
+st.268;Su Pallosu Swash;Su_Pallosu;swash;ITA;Sardegna;Western Mediterranean;665.6;1.912;0.107;1.384;ok;40.0512631;8.4030181;0.1;N;NO;NO;2
+st.269;Su Pallosu mid;Su_Pallosu;mid;ITA;Sardegna;Western Mediterranean;729.3;1.491;0.089;1.467;ok;40.0512632;8.4030182;0.1;N;NO;NO;5
+st.270;Su Pallosu deep;Su_Pallosu;deep;ITA;Sardegna;Western Mediterranean;480.1;1.551;0.104;0.747;ok;40.0512633;8.4030183;0.1;N;NO;NO;3
+st.271;La Mandriola Swash;La_Mandriola;swash;ITA;Sardegna;Western Mediterranean;560.1;1.985;-0.244;1.269;ok;40.0326771;8.3982161;1.9;W;YES;NO;4
+st.272;La Mandriola mid;La_Mandriola;mid;ITA;Sardegna;Western Mediterranean;240.6;1.812;0.47;1.148;ok;40.0326772;8.3982162;1.9;W;YES;NO;1
+st.273;La Mandriola deep;La_Mandriola;deep;ITA;Sardegna;Western Mediterranean;178.1;1.565;0.055;1.479;ok;40.0326773;8.3982163;1.9;W;YES;NO;0
+st.274;Porto Scuso swash;Porto_Scuso;swash;ITA;Sardegna;Western Mediterranean;444.1;1.693;0.059;0.953;ok;39.2093381;8.3731531;0.3;S;YES;NO;2
+st.275;Porto Scuso mid;Porto_Scuso;mid;ITA;Sardegna;Western Mediterranean;242.7;1.548;0.081;0.743;ok;39.2093382;8.3731532;0.3;S;YES;NO;2
+st.276;Porto Scuso deep;Porto_Scuso;deep;ITA;Sardegna;Western Mediterranean;208.1;1.504;0.267;1.081;ok;39.2093383;8.3731533;0.3;S;YES;NO;5
+st.277;Porto Pino Swash;Porto_Pino;swash;ITA;Sardegna;Western Mediterranean;207.1;1.628;0.275;1.43;ok;38.9624511;8.5986721;0.5;S;YES;YES;2
+st.278;Porto Pino mid;Porto_Pino;mid;ITA;Sardegna;Western Mediterranean;191.1;1.496;0.137;1.299;ok;38.9624512;8.5986722;0.5;S;YES;YES;2
+st.279;Porto Pino deep;Porto_Pino;deep;ITA;Sardegna;Western Mediterranean;181.7;1.444;0.076;1.335;ok;38.9624513;8.5986723;0.5;S;YES;YES;4
+st.280;Torre Ulivi Swash;Torre_Ulivi;swash;ITA;Sardegna;Western Mediterranean;1657.8;1.77;0.028;1.096;ok;39.1302861;9.0141091;1.9;E;YES;NO;3
+st.281;Torre Ulivi mid;Torre_Ulivi;mid;ITA;Sardegna;Western Mediterranean;129.3;1.54;-0.053;0.741;ok;39.1302862;9.0141092;1.9;E;YES;NO;2
+st.282;Torre Ulivi deep;Torre_Ulivi;deep;ITA;Sardegna;Western Mediterranean;101.1;1.607;0.099;1.543;ok;39.1302863;9.0141093;1.9;E;YES;NO;1
+st.283;Geremeas Swash;Geremeas;swash;ITA;Sardegna;Western Mediterranean;1895.5;1.819;-0.178;1.023;ok;39.1680071;9.3769671;1.4;W;YES;NO;5
+st.284;Geremeas mid;Geremeas;mid;ITA;Sardegna;Western Mediterranean;1743.6;1.588;0.162;0.936;ok;39.1680072;9.3769672;1.4;W;YES;NO;2
+st.285;Geremeas deep;Geremeas;deep;ITA;Sardegna;Western Mediterranean;260.7;1.616;0.017;0.808;ok;39.1680073;9.3769673;1.4;W;YES;NO;4
+st.286;Porto Corallo Swash;Porto_Corallo;swash;ITA;Sardegna;Western Mediterranean;1364.6;2.601;-0.024;0.811;ok;39.4443711;9.6410081;0.2;E;NO;YES;8
+st.287;Porto Corallo mid;Porto_Corallo;mid;ITA;Sardegna;Western Mediterranean;261.1;1.538;-0.087;0.745;ok;39.4443722;9.6410082;0.2;E;NO;YES;4
+st.288;Porto Corallo deep;Porto_Corallo;deep;ITA;Sardegna;Western Mediterranean;204.1;1.477;0.248;1.062;ok;39.4443733;9.6410083;0.2;E;NO;YES;4
+st.289;Baia Cea Swash;Baia_Cea;swash;ITA;Sardegna;Western Mediterranean;1409.7;1.498;-0.004;1.354;ok;39.8698881;9.6827711;1.1;E;NO;NO;4
+st.290;Baia Cea mid;Baia_Cea;mid;ITA;Sardegna;Western Mediterranean;1248.2;1.594;-0.096;1.24;ok;39.8698882;9.6827722;1.1;E;NO;NO;4
+st.291;Baia Cea deep;Baia_Cea;deep;ITA;Sardegna;Western Mediterranean;323.3;1.606;-0.07;1.288;ok;39.8698883;9.6827733;1.1;E;NO;NO;10
+st.292;La Caletta Swash;La_Caletta;swash;ITA;Sardegna;Western Mediterranean;619.5;1.564;-0.126;1.24;ok;40.6054571;9.7510061;3.7;E;YES;YES;4
+st.293;La Caletta mid;La_Caletta;mid;ITA;Sardegna;Western Mediterranean;316.6;1.42;-0.234;1.105;ok;40.6054572;9.7510062;3.7;E;YES;YES;3
+st.294;La Caletta deep;La_Caletta;deep;ITA;Sardegna;Western Mediterranean;234.4;1.541;0.161;0.765;ok;40.6054573;9.7510063;3.7;E;YES;YES;4
+st.295;Tiriarzu Swash;Tiriarzu;swash;ITA;Sardegna;Western Mediterranean;1752;1.542;0.219;0.841;ok;40.6300821;9.7423681;3.9;E;NO;NO;1
+st.296;Tiriarzu mid;Tiriarzu;mid;ITA;Sardegna;Western Mediterranean;726.5;2.403;-0.079;1.14;ok;40.6300822;9.7423682;3.9;E;NO;NO;1
+st.297;Tiriarzu deep;Tiriarzu;deep;ITA;Sardegna;Western Mediterranean;430.2;1.496;0.267;0.97;ok;40.6300823;9.7423683;3.9;E;NO;NO;4
+st.298;Tavolara Swash;Tavolara;swash;ITA;Sardegna;Western Mediterranean;1333.6;2.116;0.222;0.911;ok;40.8927711;9.6799981;0.9;S;NO;NO;1
+st.299;Tavolara mid;Tavolara;mid;ITA;Sardegna;Western Mediterranean;472.6;1.566;0.105;0.749;ok;40.8927722;9.6799982;0.9;S;NO;NO;1
+st.300;Tavolara deep;Tavolara;deep;ITA;Sardegna;Western Mediterranean;1831.2;1.948;0.187;1.105;ok;40.8927733;9.6799983;0.9;S;NO;NO;4
+st.301;Molara Swash;Molara;swash;ITA;Sardegna;Western Mediterranean;1604.3;1.627;0.096;1.265;ok;40.8625641;9.7241151;1.4;SW;NO;NO;1
+st.302;Molara mid;Molara;mid;ITA;Sardegna;Western Mediterranean;1119.7;1.747;0.01;0.972;ok;40.8625642;9.7241152;1.4;SW;NO;NO;3
+st.303;Molara deep;Molara;deep;ITA;Sardegna;Western Mediterranean;316.9;1.481;-0.187;1.161;ok;40.8625643;9.7241153;1.4;SW;NO;NO;8
+st.304;Golfo Aranci swash;Golfo_Aranci;swash;ITA;Sardegna;Western Mediterranean;478.8;2.245;0.134;1.017;ok;40.9951181;9.5996041;0.1;SE;NO;NO;4
+st.305;Golfo Aranci mid;Golfo_Aranci;mid;ITA;Sardegna;Western Mediterranean;198;1.461;0.242;1.103;ok;40.9951182;9.5996042;0.1;SE;NO;NO;1
+st.306;Golfo Aranci deep;Golfo_Aranci;deep;ITA;Sardegna;Western Mediterranean;253.6;1.572;0.043;0.738;ok;40.9951183;9.5996043;0.1;SE;NO;NO;5
+st.307;Porto Liscia swash;Porto_Liscia;swash;ITA;Sardegna;Western Mediterranean;2360.3;1.763;0.03;0.904;ok;41.1926511;9.2922661;3;N;NO;NO;1
+st.308;Porto Liscia mid;Porto_Liscia;mid;ITA;Sardegna;Western Mediterranean;1840.9;2.042;0.079;1.057;ok;41.1926522;9.2922662;3;N;NO;NO;3
+st.309;Porto Liscia deep;Porto_Liscia;deep;ITA;Sardegna;Western Mediterranean;603.9;1.914;0.109;0.887;ok;41.1926533;9.2922663;3;N;NO;NO;3
+st.310;Isola Gabbiani swash;Isola_Gabbiani;swash;ITA;Sardegna;Western Mediterranean;1320.7;1.393;-0.193;1.129;ok;41.1903571;9.3262441;0.9;NE;NO;NO;1
+st.311;Isola Gabbiani mid;Isola_Gabbiani;mid;ITA;Sardegna;Western Mediterranean;1150.2;1.596;-0.114;0.936;ok;41.1903572;9.3262442;0.9;NE;NO;NO;1
+st.312;Isola Gabbiani deep;Isola_Gabbiani;deep;ITA;Sardegna;Western Mediterranean;330.4;1.775;0.036;1.188;ok;41.1903573;9.3262443;0.9;NE;NO;NO;3
+st.313;La Maddalena(Carlotto) swash ;La_MaddalenaCarlotto;swash;ITA;Sardegna;Western Mediterranean;1322.4;1.955;0.147;0.984;ok;41.2303681;9.3778581;0.1;N;NO;NO;3
+st.314;La Maddalena(Carlotto) mid ;La_MaddalenaCarlotto;mid;ITA;Sardegna;Western Mediterranean;722.3;1.645;0.084;0.844;ok;41.2303682;9.3778582;0.1;N;NO;NO;3
+st.315;La Maddalena(Carlotto) deep ;La_MaddalenaCarlotto;deep;ITA;Sardegna;Western Mediterranean;384.8;1.588;-0.184;1.123;ok;41.2303683;9.3778583;0.1;N;NO;NO;6
+st.316;Porto Pozzo swash ;Porto_Pozzo;swash;ITA;Sardegna;Western Mediterranean;1662.1;1.618;0.111;1.143;ok;41.1908291;9.2868481;0.4;W;NO;NO;2
+st.317;Porto Pozzo mid ;Porto_Pozzo;mid;ITA;Sardegna;Western Mediterranean;1690.2;2.398;-0.258;1.247;ok;41.1908292;9.2868482;0.4;W;NO;NO;4
+st.318;Porto Pozzo deep ;Porto_Pozzo;deep;ITA;Sardegna;Western Mediterranean;2215;2.331;-0.175;1.214;ok;41.1908293;9.2868483;0.4;W;NO;NO;1
+st.319;Rena majori swash ;Rena_majori;swash;ITA;Sardegna;Western Mediterranean;1220.9;1.486;-0.255;1.073;ok;41.1727681;9.1704711;0.6;E;NO;NO;4
+st.320;Rena majori mid ;Rena_majori;mid;ITA;Sardegna;Western Mediterranean;376.7;1.556;0.073;1.332;ok;41.1727682;9.1704712;0.6;E;NO;NO;6
+st.321;Rena majori deep ;Rena_majori;deep;ITA;Sardegna;Western Mediterranean;289.6;1.518;-0.22;0.864;ok;41.1727683;9.1704713;0.6;E;NO;NO;3
+st.322;Isola Rossa swash ;Isola_Rossa;swash;ITA;Sardegna;Western Mediterranean;597.3;1.594;-0.18;1.127;ok;41.0107741;8.8764291;0.5;W;YES;YES;0
+st.323;Isola Rossa mid ;Isola_Rossa;mid;ITA;Sardegna;Western Mediterranean;370.5;1.389;0.173;1.128;ok;41.0107742;8.8764292;0.5;W;YES;YES;5
+st.324;Isola Rossa deep ;Isola_Rossa;deep;ITA;Sardegna;Western Mediterranean;470.1;1.611;0.24;0.848;ok;41.0107743;8.8764293;0.5;W;YES;YES;7
+st.325;Lu Bagnu swash ;Lu_Bagnu;swash;ITA;Sardegna;Western Mediterranean;1490.6;1.561;0.05;1.321;ok;40.8995641;8.6755111;0.2;NW;YES;NO;5
+st.326;Lu Bagnu mid ;Lu_Bagnu;mid;ITA;Sardegna;Western Mediterranean;653.3;1.474;-0.12;1.244;ok;40.8995642;8.6755122;0.2;NW;YES;NO;6
+st.327;Lu Bagnu deep ;Lu_Bagnu;deep;ITA;Sardegna;Western Mediterranean;347.7;1.36;-0.107;1.115;ok;40.8995643;8.6755133;0.2;NW;YES;NO;6
+st.328;Platamona swash ;Platamona;swash;ITA;Sardegna;Western Mediterranean;284.9;1.666;-0.015;0.996;ok;40.8199611;8.4855241;11.6;N;NO;NO;2
+st.329;Platamona mid ;Platamona;mid;ITA;Sardegna;Western Mediterranean;212.5;1.497;0.268;1.012;ok;40.8199622;8.4855242;11.6;N;NO;NO;1
+st.330;Platamona deep ;Platamona;deep;ITA;Sardegna;Western Mediterranean;177.1;1.264;0;0.738;ok;40.8199633;8.4855243;11.6;N;NO;NO;1
+st.331;Ses Covetes West swash;Ses_Covetes_west;swash;ESP;Mallorca;Western Mediterranean;245.5;1.613;0.16;0.802;ok;39.3603111;2.9627671;1.3;SW;YES;YES;6
+st.332;Ses Covetes West mid;Ses_Covetes_west;mid;ESP;Mallorca;Western Mediterranean;207.4;1.558;0.171;1.117;ok;39.3603222;2.9627672;1.3;SW;YES;YES;0
+st.333;Ses covetes West deep;Ses_Covetes_west;deep;ESP;Mallorca;Western Mediterranean;169.2;1.417;-0.095;1.198;ok;39.3603333;2.9627673;1.3;SW;YES;YES;2
+st.334;Ses Covetes East swash;Ses_Covetes_east;swash;ESP;Mallorca;Western Mediterranean;676;1.42;-0.214;1.288;ok;39.3567121;2.9681081;0.2;SW;YES;NO;4
+st.335;Ses Covetes East mid;Ses_Covetes_east;mid;ESP;Mallorca;Western Mediterranean;207.7;1.505;0.266;1.08;ok;39.3567122;2.9681082;0.2;SW;YES;NO;1
+st.336;Ses covetes East deep;Ses_Covetes_east;deep;ESP;Mallorca;Western Mediterranean;210.1;1.503;0.254;0.997;ok;39.3567123;2.9681083;0.2;SW;YES;NO;2
+st.337;Es Trenc swash;Es_Trenc;swash;ESP;Mallorca;Western Mediterranean;648.7;1.455;-0.263;1.257;ok;39.3428251;2.9859111;2.7;SW;NO;NO;5
+st.338;Es Trenc mid;Es_Trenc;mid;ESP;Mallorca;Western Mediterranean;253.2;1.772;0.264;0.904;ok;39.3428252;2.9859222;2.7;SW;NO;NO;2
+st.339;Es Trenc deep;Es_Trenc;deep;ESP;Mallorca;Western Mediterranean;179.2;1.449;0.029;1.34;ok;39.3428253;2.9859333;2.7;SW;NO;NO;1
+st.340;Son Serra swash;Son_Serra;swash;ESP;Mallorca;Western Mediterranean;316.4;1.824;0.075;1.171;ok;39.7321911;3.2363491;2.3;N;YES;NO;6
+st.341;Son Serra mid;Son_Serra;mid;ESP;Mallorca;Western Mediterranean;241.3;1.557;0.132;0.751;ok;39.7321922;3.2363492;2.3;N;YES;NO;4
+st.342;Son Serra deep;Son_Serra;deep;ESP;Mallorca;Western Mediterranean;195.4;1.456;0.214;1.131;ok;39.7321933;3.2363493;2.3;N;YES;NO;1
+st.343;Port Alcudia swash;port_Alcudia;swash;ESP;Mallorca;Western Mediterranean;498.6;1.787;-0.055;0.962;ok;39.8347411;3.1222591;4.9;E;YES;YES;2
+st.344;Port Alcudia mid;port_Alcudia;mid;ESP;Mallorca;Western Mediterranean;214;1.553;0.25;0.979;ok;39.8347422;3.1222592;4.9;E;YES;YES;4
+st.345;Port Alcudia deep;port_Alcudia;deep;ESP;Mallorca;Western Mediterranean;216.4;1.672;0.146;1.041;ok;39.8347433;3.1222593;4.9;E;YES;YES;1
+st.346;Cala Millor swash;Cala_Millor;swash;ESP;Mallorca;Western Mediterranean;1211.7;1.699;-0.056;1.07;ok;39.5982371;3.3854431;1.9;E;YES;NO;2
+st.347;Cala Millor mid;Cala_Millor;mid;ESP;Mallorca;Western Mediterranean;560.2;1.764;0.067;1.003;ok;39.5982372;3.3854432;1.9;E;YES;NO;4
+st.348;Cala Millor deep;Cala_Millor;deep;ESP;Mallorca;Western Mediterranean;243.4;1.584;0.106;0.745;ok;39.5982373;3.3854433;1.9;E;YES;NO;5
